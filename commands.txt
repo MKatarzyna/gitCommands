@@ -1,0 +1,13 @@
+GIT COMMANDS
+
+Learn how to use git commands
+
+
+Example from GitHub
+…or create a new repository on the command line
+echo "# gitCommands" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/MKatarzyna/gitCommands.git
+git push -u origin master
